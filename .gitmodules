@@ -1,0 +1,9 @@
+[submodule "Client"]
+	path = Client
+	url = https://github.com/OpenReport/Client.git
+[submodule "Access"]
+	path = Access
+	url = https://github.com/OpenReport/Access.git
+[submodule "Services"]
+	path = Services
+	url = https://github.com/OpenReport/Services.git
